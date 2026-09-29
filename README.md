@@ -120,4 +120,5 @@ Arduino IDE: install ESP32 board support, open the sketch, select your board, fl
 
 ## License
 
-Not specified yet. Ask before reusing this for a commercial product.
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project, provided that the original copyright notice and license are retained.
